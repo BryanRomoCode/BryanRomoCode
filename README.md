@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BryanRomoCode, a 21 years old Mexican. Student of Mechatronics Engineering.
-- 👀 I’m interested in AI, Artificial Vision and Robotics.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on projects.
+- 👀 I’m interested in AI and Robotics.
+- 🌱 I’m currently learning Python and C++
 - 📫 How to reach me: bryanromo2001@gmail.com
 
 <!---
