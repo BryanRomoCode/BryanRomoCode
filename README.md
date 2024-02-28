@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @BryanRomoCode, a 21 years old Mexican. Student of Mechatronics Engineering.
-- 👀 I’m interested in AI and Robotics.
-- 🌱 I’m currently learning Python, Javascript and C++
+- 👋 Hi, I’m @BryanRomoCode, a 22 years old recent graduate from Mechatronics Engineering.
+- 👀 I’m interested in Data Analytics, Data Science, AI and Robotics.
+- 🌱 I’m currently learning Python, Excel and Javascript 
 - 📫 How to reach me: bryanromo2001@gmail.com
 
 <!---
